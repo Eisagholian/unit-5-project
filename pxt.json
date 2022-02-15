@@ -2,7 +2,8 @@
     "name": "Unit 5 Project",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "3d": "pub:68164-98976-71154-18480"
     },
     "files": [
         "main.blocks",
@@ -14,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.8.17",
+        "target": "1.8.20",
         "targetId": "arcade"
     },
     "supportedTargets": [
